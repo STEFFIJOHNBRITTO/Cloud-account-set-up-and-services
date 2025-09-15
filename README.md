@@ -281,7 +281,5 @@ Snapshot 1: Azure portal login page.
 Snapshot 2: Services in Azure
 <img width="1919" height="1096" alt="Screenshot 2025-09-15 140756" src="https://github.com/user-attachments/assets/6b5928a0-13a0-4a4c-af02-0615039a8273" />
 
-
-
-*Result:*
+## *Result:*
 Thus, a cloud account was successfully created in Microsoft Azure, and various services such as  Compute, IoT, and Storage were explored.
